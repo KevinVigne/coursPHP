@@ -1,3 +1,7 @@
+*{
+    margin : 0 auto;
+    padding: 0 ;
+}
 :root{
     --orange--:#FF9B00;
     --yellow--:#FFE100;
@@ -6,10 +10,7 @@
     --title_color--:#0037FF;
     --text_color--:#8991EB;
 }
-*{
-    margin : 0 auto;
-    padding: 0 ;
-}
+
 h1{
     background-color: var(--dark_yellow--);
     display:flex;

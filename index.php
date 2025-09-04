@@ -8,12 +8,12 @@
 </head>
 <body>
     <h1>Les bases en PHP</h1>
-    <nav class ="navbar">
-        <a href="00-bases.php">Les Bases</a>
-        <a href="01-variables.php">Les Variables</a>
-        <a href="02-constante.php">Les Constantes</a>
-        <a href="03-concatenation.php">La Concaténation</a>
-    </nav>
+    <ul class="list nav row">
+        <li><a class="darkGrey beigeText" href="#">Accueil</a></li>
+        <li><a class="darkGrey beigeText" href="#">Bougies</a></li>
+        <li><a class="darkGrey beigeText" href="#">Huiles essentielle</a></li>
+        <li><a class="darkGrey beigeText" href="#">Idée cadeaux</a></li>
+    </ul>
     <main class="main">
         
     </main>
